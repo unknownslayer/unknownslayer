@@ -8,15 +8,16 @@ Through my academic and professional projects, I have gained valuable experience
 
 <h2>👨‍💻 Academic Projects:</h2>
 
-- <b>Cloud Security</b>
-  - [Cloud Security Project: Secure Web Application Hosting on AWS](https://github.com/unknownslayer/Cloud-Security/)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b><a href="https://github.com/unknownslayer/Cloud-Security/"><h3>Cloud Security</h3></a></b>
+
+    
+- <b><a href="https://github.com/joshmadakor1"><h3>Penetration Testing</h3></a></b>
+
+  
+- <b><a href="https://github.com/joshmadakor1"><h3>MediBed</h3></a></b>
+ 
+ 
+    
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
