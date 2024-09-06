@@ -38,9 +38,8 @@ As a core team member of the Google Developer Students Club, I organized and led
 I served as the Community Manager for the Kruptos Security Club, where I organized and facilitated multiple cybersecurity hackathons and workshops aimed at educating students about the latest trends in cybersecurity. I successfully led initiatives that boosted member participation by 40%, creating a vibrant community of over 100 students who regularly engaged in hands-on learning activities. The workshops I organized covered topics such as ethical hacking, penetration testing, and network security, helping participants gain practical experience in real-world cybersecurity challenges. My leadership in the club not only promoted cybersecurity awareness but also fostered a community that prioritized continuous learning and professional development.<be>
 
 <h3>Certfications</h3>
-• - [Cybersecurity and Mobility, Coursera - University System of Georgia](https://github.com/unknownslayer/Cloud-Security/) 
+• - [Cybersecurity and Mobility, Coursera - University System of Georgia](https://github.com/unknownslayer/Cloud-Security/) <br>
 • - [Introduction to Artificial Intelligence (AI), Coursera - IBM](https://github.com/unknownslayer/Cloud-Security/)<br>
-• Introduction to Artificial Intelligence (AI), Coursera - IBM<br>
 
 
 <h2>📺 Popular YouTube Videos</h2>
