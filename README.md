@@ -35,7 +35,13 @@ I had the opportunity to volunteer with OWASP (Open Web Application Security Pro
 As a core team member of the Google Developer Students Club, I organized and led over five workshops and hackathons focused on various technologies, including web development, AI, and cybersecurity. These events attracted a significant number of participants, resulting in a 30% increase in engagement. I also mentored students on coding projects and open-source contributions, helping them enhance their skills and build confidence in their technical abilities. This experience taught me the importance of knowledge sharing and fostering a collaborative environment, which I continue to practice in my professional life.<br>
 
 <h3>Kruptos Security Club</h3>
-I served as the Community Manager for the Kruptos Security Club, where I organized and facilitated multiple cybersecurity hackathons and workshops aimed at educating students about the latest trends in cybersecurity. I successfully led initiatives that boosted member participation by 40%, creating a vibrant community of over 100 students who regularly engaged in hands-on learning activities. The workshops I organized covered topics such as ethical hacking, penetration testing, and network security, helping participants gain practical experience in real-world cybersecurity challenges. My leadership in the club not only promoted cybersecurity awareness but also fostered a community that prioritized continuous learning and professional development.<br>
+I served as the Community Manager for the Kruptos Security Club, where I organized and facilitated multiple cybersecurity hackathons and workshops aimed at educating students about the latest trends in cybersecurity. I successfully led initiatives that boosted member participation by 40%, creating a vibrant community of over 100 students who regularly engaged in hands-on learning activities. The workshops I organized covered topics such as ethical hacking, penetration testing, and network security, helping participants gain practical experience in real-world cybersecurity challenges. My leadership in the club not only promoted cybersecurity awareness but also fostered a community that prioritized continuous learning and professional development.<be>
+
+<h3>Certfications</h3>
+• - [Cybersecurity and Mobility, Coursera - University System of Georgia](https://github.com/unknownslayer/Cloud-Security/) 
+• - [Introduction to Artificial Intelligence (AI), Coursera - IBM](https://github.com/unknownslayer/Cloud-Security/)<br>
+• Introduction to Artificial Intelligence (AI), Coursera - IBM<br>
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
