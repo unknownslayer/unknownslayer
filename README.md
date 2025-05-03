@@ -19,6 +19,7 @@ Through my academic and professional projects, I have gained valuable experience
 <h2>👨‍💻 Academic Projects:</h2>
 
 - <b><a href="https://github.com/unknownslayer/Cloud-Security/"><h3>Cloud Security</h3></a></b>
+The main objective was to host a secure web application using a cloud platform (AWS) with a focus on security implementations. I deployed a WordPress blog website (onedarkyear.tech) using AWS EC2 instances and applied various security features, including AWS security tools and WordPress plugins, to safeguard the application against potential threats. This project also includes comprehensive vulnerability assessments and risk mitigation strategies to ensure the highest level of security.
 
 - <b><a href=""><h3>Java Functional Paradigm & Secure Code Review</h3></a></b>
 This project delved into modern Java's functional programming paradigm, assessing its ability to promote modular, secure, and side-effect-free code structures. Alongside, I conducted an in-depth security audit of a Java-based library management application using both automated tools and manual review techniques. The aim was to identify critical vulnerabilities and reinforce secure coding principles within real-world applications.
