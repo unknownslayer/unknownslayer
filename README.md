@@ -16,7 +16,7 @@ Through my academic and professional projects, I have gained valuable experience
 - **SIEM & Monitoring**: Splunk, Datadog  
 - **ITSM**: ServiceNow, JIRA, Confluence</h2>
 
-<h2>👨‍💻 Academic Projects:</h2>
+<h2> Academic Projects:</h2>
 
 - <b><a href="https://github.com/unknownslayer/Cloud-Security/"><h3>Cloud Security</h3></a></b>
 The main objective was to host a secure web application using a cloud platform (AWS) with a focus on security implementations. I deployed a WordPress blog website (onedarkyear.tech) using AWS EC2 instances and applied various security features, including AWS security tools and WordPress plugins, to safeguard the application against potential threats. This project also includes comprehensive vulnerability assessments and risk mitigation strategies to ensure the highest level of security.
@@ -51,14 +51,6 @@ In this machine learning project, I enhanced a biometric recognition system to s
 - <b><a href=""><h3> Cloud Cover - IoT Weather Station </h3></a></b>
 This project featured the end-to-end development of an IoT-based weather station named "Cloud Cover" using the NodeMCU ESP8266 microcontroller and DHT11 sensors. It involved hardware programming, sensor data acquisition, and real-time cloud dashboard integration, demonstrating the practical potential of smart environmental monitoring.
 
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
- 
-  
 <h2>Volunteer</h2>
 Throughout my academic and professional journey, I have been actively involved in volunteer work, contributing to the tech community and helping others develop their skills and knowledge in cybersecurity and technology.<br>
 
@@ -72,9 +64,9 @@ As a core team member of the Google Developer Students Club, I organized and led
 I served as the Community Manager for the Kruptos Security Club, where I organized and facilitated multiple cybersecurity hackathons and workshops aimed at educating students about the latest trends in cybersecurity. I successfully led initiatives that boosted member participation by 40%, creating a vibrant community of over 100 students who regularly engaged in hands-on learning activities. The workshops I organized covered topics such as ethical hacking, penetration testing, and network security, helping participants gain practical experience in real-world cybersecurity challenges. My leadership in the club not only promoted cybersecurity awareness but also fostered a community that prioritized continuous learning and professional development.<be>
     
 <h3>GamerFest Dublin</h3>
-Recently volunteered at Gamer Fest Ireland, setting up and configuring gaming systems for nba2K, COD, and Tekken.
+Recently volunteered at Gamer Fest Ireland, setting up and configuring gaming systems for NBA2K, COD, and Tekken.
 Collaborated with the event team to optimize system performance and ensure smooth operations throughout the
-weekend. Provided real-time technical support and troubleshooting issues. This experience enhanced my technical
+weekend. Provided real-time technical support and troubleshooted issues. This experience enhanced my technical
 and problem-solving skills in a dynamic event environment.
 <be>
 
@@ -83,37 +75,7 @@ and problem-solving skills in a dynamic event environment.
 
 <a href="https://coursera.org/share/820ceaa38b72f45249162cacfa7e1f67"> Introduction to Artificial Intelligence (AI), Coursera - IBM </a> <br>
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
