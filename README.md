@@ -76,6 +76,4 @@ and problem-solving skills in a dynamic event environment.
 <a href="https://coursera.org/share/820ceaa38b72f45249162cacfa7e1f67"> Introduction to Artificial Intelligence (AI), Coursera - IBM </a> <br>
 
 
-<h2> 🤳 Connect with me:</h2>
-
 
