@@ -20,14 +20,36 @@ Through my academic and professional projects, I have gained valuable experience
 
 - <b><a href="https://github.com/unknownslayer/Cloud-Security/"><h3>Cloud Security</h3></a></b>
 
+- <b><a href=""><h3>Java Functional Paradigm & Secure Code Review</h3></a></b>
+This project delved into modern Java's functional programming paradigm, assessing its ability to promote modular, secure, and side-effect-free code structures. Alongside, I conducted an in-depth security audit of a Java-based library management application using both automated tools and manual review techniques. The aim was to identify critical vulnerabilities and reinforce secure coding principles within real-world applications.
     
-- <b><a href="https://github.com/joshmadakor1"><h3>Penetration Testing</h3></a></b>
+- <b><a href=""><h3>Lethic Botnet Analysis</h3></a></b>
+In this cybersecurity research project, I analyzed the Lethic Botnet, one of the most infamous spamming botnets of the late 2000s. I examined its infection vectors, C2 architecture, and takedown strategies. This investigation provided a historical and technical understanding of botnet ecosystems, contributing to a stronger foundation in modern threat intelligence.
 
-  
-- <b><a href="https://github.com/joshmadakor1"><h3>MediBed</h3></a></b>
- 
- 
-    
+ - <b><a href=""><h3>CamScanner Breach Documentation (Trojan-Dropper.AndroidOS.Necro.n)</h3></a></b>
+This research project focused on analyzing a major mobile security incident, "The CamScanner breach" of 2019. I thoroughly investigated the underlying Trojan-Dropper.AndroidOS.Necro.n malware dissected its distribution through legitimate platforms and documented the consequences of compromised third-party SDKs. The study highlighted the urgency of supply chain security in mobile app development.
+
+ - <b><a href=""><h3> Malware Lab: GameOver Zeus Analysis</h3></a></b>
+I set up a dedicated virtual malware lab to analyze the infamous GameOver Zeus malware. This hands-on project allowed for safe static and dynamic analysis, revealing how the malware communicated with its P2P network, spread through spam/phishing, and executed credential theft. It was a practical exercise in reverse engineering and threat containment in a sandboxed environment.
+
+ - <b><a href=""><h3> Penetration Testing (CVE-2022-28368)</h3></a></b>
+This offensive security exercise involved exploiting CVE-2022-28368 to gain unauthorized root access on a vulnerable network service. The objective was to simulate a real-world breach, demonstrate privilege escalation, and produce a comprehensive vulnerability report. It sharpened my practical exploitation skills and emphasized the importance of secure configuration and patching.
+
+- <b><a href=""><h3> Historical Virus Study</h3></a></b>
+This academic research project explored the evolution of computer viruses from the 1980s to the early 2000s. By analyzing four iconic malware — Brain, Michelangelo, CIH, and Melissa. I aimed to understand how these early threats shaped the cybersecurity strategies we use today. The study offered insight into shifting attack trends and defensive mechanisms.
+
+- <b><a href=""><h3> Home Gaming Network Architecture + Vulnerability Analysis</h3></a></b>
+This project combined networking and security by designing a home-based gaming network and stress-testing it against modern IoT-related vulnerabilities. Through simulation of known CVEs and application of best practices in segmentation and hardening, I created a robust architecture tailored to both performance and cybersecurity needs in smart homes.
+
+- <b><a href=""><h3> Cyber Espionage Suite (Python)</h3></a></b>
+This red team-focused project involved developing a custom cyber-espionage toolkit to simulate insider threats. The suite included Python-based keylogging, clipboard logging, screen capturing, and audio surveillance modules. It served as both a proof of concept for offensive capabilities and an exploration of defense evasion tactics.
+
+- <b><a href=""><h3> Biometric Identification & Object Recognition </h3></a></b>
+In this machine learning project, I enhanced a biometric recognition system to support multi-modal inputs including faces, gestures, and surrounding objects. Using CNNs trained on custom datasets and real-time video feeds, I built a versatile recognition engine suitable for smart surveillance or accessibility systems.
+
+- <b><a href=""><h3> Cloud Cover - IoT Weather Station </h3></a></b>
+This project featured the end-to-end development of an IoT-based weather station named "Cloud Cover" using the NodeMCU ESP8266 microcontroller and DHT11 sensors. It involved hardware programming, sensor data acquisition, and real-time cloud dashboard integration, demonstrating the practical potential of smart environmental monitoring.
+
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
