@@ -5,7 +5,7 @@ I am Dheeraj Birapuneni, an Information Technology Engineer with a strong focus 
 With hands-on experience in cloud platforms, security testing, and system administration, I have successfully managed and secured various IT systems and web applications. I am skilled in identifying and mitigating security vulnerabilities, implementing robust security measures, and optimizing cloud infrastructure for performance and security.<br>
 
 Through my academic and professional projects, I have gained valuable experience in securing cloud-hosted applications, conducting vulnerability assessments, and developing security strategies to protect both systems and data. I am excited to apply my expertise to contribute to innovative projects and help organizations achieve their IT and security goals.<be>
-<h2> Skills
+<h2> Skills </h2>
 
 - **Languages**: Python, PowerShell, SQL, C++, Regex  
 - **Security Testing**: OWASP ZAP, Burp Suite, Metasploit, Aircrack-ng, Hashcat, JohnTheRipper, Snyk  
@@ -47,6 +47,13 @@ As a core team member of the Google Developer Students Club, I organized and led
 
 <h3>Kruptos Security Club</h3>
 I served as the Community Manager for the Kruptos Security Club, where I organized and facilitated multiple cybersecurity hackathons and workshops aimed at educating students about the latest trends in cybersecurity. I successfully led initiatives that boosted member participation by 40%, creating a vibrant community of over 100 students who regularly engaged in hands-on learning activities. The workshops I organized covered topics such as ethical hacking, penetration testing, and network security, helping participants gain practical experience in real-world cybersecurity challenges. My leadership in the club not only promoted cybersecurity awareness but also fostered a community that prioritized continuous learning and professional development.<be>
+    
+<h3>GamerFest Dublin</h3>
+Recently volunteered at Gamer Fest Ireland, setting up and configuring gaming systems for nba2K, COD, and Tekken.
+Collaborated with the event team to optimize system performance and ensure smooth operations throughout the
+weekend. Provided real-time technical support and troubleshooting issues. This experience enhanced my technical
+and problem-solving skills in a dynamic event environment.
+<be>
 
 <h3>Certfications</h3>
 <a href="https://coursera.org/share/ae5585beef5117f1376fcf25d59ea2a4">Cybersecurity and Mobility, Coursera - Kennesaw State University</a> <br>
