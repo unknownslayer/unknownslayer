@@ -4,7 +4,17 @@ I am Dheeraj Birapuneni, an Information Technology Engineer with a strong focus 
 
 With hands-on experience in cloud platforms, security testing, and system administration, I have successfully managed and secured various IT systems and web applications. I am skilled in identifying and mitigating security vulnerabilities, implementing robust security measures, and optimizing cloud infrastructure for performance and security.<br>
 
-Through my academic and professional projects, I have gained valuable experience in securing cloud-hosted applications, conducting vulnerability assessments, and developing security strategies to protect both systems and data. I am excited to apply my expertise to contribute to innovative projects and help organizations achieve their IT and security goals.<br>
+Through my academic and professional projects, I have gained valuable experience in securing cloud-hosted applications, conducting vulnerability assessments, and developing security strategies to protect both systems and data. I am excited to apply my expertise to contribute to innovative projects and help organizations achieve their IT and security goals.<be>
+<h2> Skills
+
+- **Languages**: Python, PowerShell, SQL, C++, Regex  
+- **Security Testing**: OWASP ZAP, Burp Suite, Metasploit, Aircrack-ng, Hashcat, JohnTheRipper, Snyk  
+- **Security Tools**: FOSSA, Flake8, SonarQube, Microfocus Fortify, Contrast  
+- **DevSecOps**: Azure DevOps, Docker, Kubernetes  
+- **Compliance & Frameworks**: NIST, PCI DSS, Threat Modelling, OWASP Top 10 Mitigation  
+- **Infrastructure**: Linux & Windows Admin, Virtualization (VMware), Networking, Firewalls, IDS/IPS  
+- **SIEM & Monitoring**: Splunk, Datadog  
+- **ITSM**: ServiceNow, JIRA, Confluence</h2>
 
 <h2>👨‍💻 Academic Projects:</h2>
 
